@@ -1,6 +1,19 @@
-# nourriture-electron
+# Nourriture-electron
 Frontend de l'application nourriture fait en Electron
 
+
+## Utilisation
+
+`npm i` pour installer les packages nécessaire.
+
+`ng serve -o` pour lancer l'application angular dans le navigateur.
+
+`npm start` pour build le projet et lancer l'application en mode desktop.
+
+`npm run electron` pour lancer l'application en mode desktop sans rebuild le projet.
+
+
+## À propos d'angular
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
 ## Development server
